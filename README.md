@@ -1,5 +1,5 @@
 # SocketChatRoom
-A chat room open to two members made with sockets in Python. Made for fun and experience.
+A chat room open to two members made with sockets in Python. One player acts as the server and the other the client. Made for fun and experience.
 
 This chat room was originally going to support up to 10 people, which could easily be implemented, but
 I kept running into "ConnectionAbortedError: [WinError 10053] An established connection was aborted by the 
